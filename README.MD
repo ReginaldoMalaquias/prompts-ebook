@@ -73,7 +73,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/reginaldo-santos-3755321a6/">LinkedIn</a>
 &nbsp;|&nbsp;
-    &nbsp;|&nbsp;</p>
+    &nbsp;&nbsp;</p>
 </p>
 <br/><br/>
 <p>
